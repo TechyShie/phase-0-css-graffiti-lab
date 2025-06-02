@@ -65,3 +65,6 @@ body div#wall div.parent div > #tag-7.slick {
   z-index: 1;
   display: block;
 }
+#wall .tag-1, #wall #tag-2, #wall #tag-3,#wall #tag-4, #wall #tag-5,#wall #tag-6, #wall #tag-7{
+  background-size: ;
+}
